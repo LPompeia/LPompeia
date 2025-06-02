@@ -2,7 +2,7 @@
 
 ### About me
 
-- :raising_hand_man: I'm Leonardo Badim, 25, Brazilian.
+- :raising_hand_man: I'm Leonardo Badim, 26, Brazilian.
 - :mortar_board: Bachelor of Computer Engineering.
 - :briefcase: Software Development Assistant
 - :pushpin: Living in São Paulo/SP-Brazil.
@@ -22,6 +22,7 @@
 ### Certifications
 <a href="https://www.credly.com/badges/73cbe1c1-752c-4a3d-a99c-44b22f7b048f/linked_in?t=rt5o88" target="_blank"><img src="https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="12%"/></a>
 <a href="https://www.credly.com/badges/41a7f045-b858-4536-8921-e3708342d59b" target="_blank"><img src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="12%"/></a>
+<a href="https://www.credly.com/badges/46baa828-aef6-4f5c-9d8a-e6f8f72263b2" target="_blank"><img src="https://images.credly.com/size/340x340/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="12%"/></a>
 
 ### You can also find me on
 <a href="https://www.instagram.com/badim-leonardo" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
